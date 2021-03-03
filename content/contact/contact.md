@@ -9,24 +9,30 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
-subtitle:
+title: Kontaktinfo
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
   
   # Email form provider
   form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+    # provider: netlify
+    # formspree:
+    #   id:
+    # netlify:
+    #   # Enable CAPTCHA challenge to reduce spam?
+    #   captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+| Kontornavn            | Mail                              | Telefon                     |
+| -------------         |:-------------:                    |:-------------:              |
+| **ALIS-kontor Midt**  | alismidt@trondheim.kommune.no     | 12345678                    |
+| **ALIS-kontor Sør**   | alissor@kristiansand.kommune.no   | 12345678                    |
+| **ALIS-kontor Øst**   | alisost@hamar.kommune.no          | 12345678                    |
+| **ALIS-kontor Vest**  | alisvest@bergen.kommune.no        | 12345678                    |
+| **ALIS-kontor Nord**  | alisnord@bodo.kommune.no          | 12345678                    |
