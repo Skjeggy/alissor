@@ -9,31 +9,26 @@
 #  weight = 10
 
 [[main]]
-  name = "ALIS-Boka"
-  url = "alisboka"        #"https://alisboka.netlify.app/"
-  weight = 10
-
-[[main]]
-  name = "Nyheter"
+  name = "News"
   url = "post"
   weight = 20
 
 [[main]]
-  name = "Ansatte"
+  name = "People"
   url = "people"
   weight = 30
 
 [[main]]
-  name = "Arrangementer"
+  name = "Events"
   url = "event"
   weight = 40
 
 [[main]]
-  name = "Publikasjoner og rapporter"
+  name = "Publications"
   url = "publication"
   weight = 50
 
 [[main]]
-  name = "Kontakt oss"
+  name = "Contact"
   url = "contact"
   weight = 60
