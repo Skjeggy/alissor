@@ -6,15 +6,31 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "ALIS-kontoret"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: symbol.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-advanced:
+  columns: '2'
+advanced: 
   css_style:
   css_class:
----
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+cta:
+  url: 'https://www.ks.no/fagomrader/helse-og-omsorg/legetjenester'
+  label: Se KS sine nettsider her! 
+  # icon_pack: fab
+  # icon: facebook
+---
+ 
+ALIS-kontorene (Allmennlege i spesialisering) har ifølge [mandatet](https://aliskontoret.netlify.app/alisboka/mandat/) fra Helsedirektoratet som overordnet mål å bistå kommunene ved å bidra til rekruttering og tilrettelegging for spesialisering i allmennmedisin. ALIS-kontorene skal rådgi og bistå kommunene i planlegging, etablering og oppfølging av utdanningen. Det finnes 5 kontor, lokalisert i hver sin region av landet. 
+
+Denne nettsiden er under oppbygging og det er derfor lurt å orientere seg på KS sine nettsider foreløpig.
+
+<!-- Det finnes 5 kontor og de har følgende plassering: 
+- **Kristiansand** (ALIS-kontor Sør)
+- **Bergen** (ALIS-kontor Vest)
+- **Hamar** (ALIS-kontor Øst)
+- **Trondheim** (ALIS-kontor Midt)
+- **Bodø** (ALIS-kontor Nord) -->
+
