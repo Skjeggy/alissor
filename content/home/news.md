@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Siste nytt
 subtitle:
 
 content:
@@ -19,6 +19,20 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
+  view: 2
   columns: "1"
+
+# design:
+#   columns: "1"
+#   background:
+#     image: norway.jpg
+#     image_darken: 0.6
+#     image_parallax: true
+#     image_position: center
+#     image_size: cover
+#     text_color_light: true
+#   spacing:
+#     padding: ["20px", "0", "20px", "0"]
+# advanced:
+#   css_class: fullscreen
 ---
