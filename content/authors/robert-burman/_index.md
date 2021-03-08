@@ -1,7 +1,7 @@
 ---
 title: Robert Burman
 role: Spesialist i allmennmedisin og leder for ALIS-kontor Sør
-avatar_filename: 5af834496554160a79bea0a4.png
+avatar_filename: avatar.png
 interests:
   - Byråkrati
   - ALIS-begrepet
